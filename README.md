@@ -1,4 +1,4 @@
-# taller-ms
+# Microservicios con Nest - Taller
 
 primero generar el proyecto
 
